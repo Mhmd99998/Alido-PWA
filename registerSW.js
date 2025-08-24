@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/alido-pwa/sw.js', { scope: '/alido-pwa/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Alido-PWA/sw.js', { scope: '/Alido-PWA/' })})}
